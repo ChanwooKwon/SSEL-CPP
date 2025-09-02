@@ -1,0 +1,9 @@
+CatBoost Best Hyperparameters (Optuna)
+========================================
+iterations: 675
+learning_rate: 0.1175002857276872
+depth: 4
+l2_leaf_reg: 7.845919104345466
+border_count: 148
+bagging_temperature: 0.4491131985989324
+random_strength: 5.946747822912739

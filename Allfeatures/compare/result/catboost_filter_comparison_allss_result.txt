@@ -1,0 +1,11 @@
+CatBoost 성능 비교 (Feature Filtering 전후, 5-fold CV + Paired t-test)
+======================================================================
+Accuracy:
+  Before = 0.7824, After = 0.7856
+  Δ = 0.0032, p-value = 0.6824 
+MCC:
+  Before = 0.5652, After = 0.5720
+  Δ = 0.0068, p-value = 0.6614 
+ROC-AUC:
+  Before = 0.8657, After = 0.8759
+  Δ = 0.0101, p-value = 0.0832 

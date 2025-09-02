@@ -1,0 +1,9 @@
+ExtraTrees (Optuna Tuned) CV Metrics
+========================================
+Accuracy: 0.7837
+LogLoss: 0.4712
+MCC: 0.5675
+Precision: 0.7887
+Recall: 0.7818
+F1: 0.7852
+ROC_AUC: 0.8641

@@ -1,0 +1,7 @@
+RandomForest Best Hyperparameters (Optuna)
+========================================
+n_estimators: 277
+max_depth: 12
+min_samples_split: 2
+min_samples_leaf: 1
+max_features: log2

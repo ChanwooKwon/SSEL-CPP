@@ -1,0 +1,11 @@
+ERT (Feature Filtering before and after, 5-fold CV + Paired t-test)
+======================================================================
+Accuracy:
+  Before = 0.7888, After = 0.7856
+  Δ = -0.0032, p-value = 0.7210 
+MCC:
+  Before = 0.5778, After = 0.5716
+  Δ = -0.0062, p-value = 0.7284 
+ROC-AUC:
+  Before = 0.8715, After = 0.8662
+  Δ = -0.0053, p-value = 0.0529 

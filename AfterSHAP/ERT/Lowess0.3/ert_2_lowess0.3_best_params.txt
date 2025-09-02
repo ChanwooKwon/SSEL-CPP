@@ -1,0 +1,7 @@
+ERT2 Best Hyperparameters (Optuna)
+========================================
+n_estimators: 583
+max_depth: 21
+min_samples_split: 3
+min_samples_leaf: 1
+max_features: log2

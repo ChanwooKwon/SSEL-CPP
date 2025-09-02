@@ -1,0 +1,8 @@
+GB1 Best Hyperparameters (Optuna, All Features)
+========================================
+n_estimators: 418
+learning_rate: 0.0977262891229071
+max_depth: 4
+subsample: 0.8605770209457032
+min_samples_split: 5
+min_samples_leaf: 5

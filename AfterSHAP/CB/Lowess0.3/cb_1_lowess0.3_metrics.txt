@@ -1,0 +1,9 @@
+CatBoost (Optuna Tuned) CV Metrics
+========================================
+Accuracy: 0.8026
+LogLoss: 0.4459
+MCC: 0.6053
+Precision: 0.8075
+Recall: 0.8005
+F1: 0.8040
+ROC_AUC: 0.8792

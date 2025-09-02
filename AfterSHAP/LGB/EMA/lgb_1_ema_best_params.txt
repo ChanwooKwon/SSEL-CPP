@@ -1,0 +1,11 @@
+LGB Best Hyperparameters (Optuna)
+========================================
+n_estimators: 575
+learning_rate: 0.15161295180228065
+max_depth: 3
+num_leaves: 35
+min_child_samples: 22
+subsample: 0.7762317056065957
+colsample_bytree: 0.81926046728703
+reg_alpha: 1.3525714309329686
+reg_lambda: 8.374443620049956

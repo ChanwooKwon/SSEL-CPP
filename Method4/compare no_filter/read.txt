@@ -1,0 +1,3 @@
+comparison between models trained using all features and after the filter method 4 were performed after each model was trained using optuna n trials=150/
+For example, on the code named "CB_compare_5fold_no_f.py", "params before" is from Allfeatures/CB/CB_1_optuna_best_params_all.txt, which is trained using n trials=150, 
+and "params_after" is from Method4/CB/CB_1_optuna_best_params_150.txt which is also trained using n trials=150.

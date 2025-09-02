@@ -1,0 +1,11 @@
+GB 성능 비교 (Feature Filtering 전후, 5-fold CV + Paired t-test)
+======================================================================
+Accuracy:
+  Before = 0.7957, After = 0.7932
+  Δ = -0.0025, p-value = 0.8111 
+MCC:
+  Before = 0.5919, After = 0.5865
+  Δ = -0.0054, p-value = 0.7989 
+ROC-AUC:
+  Before = 0.8639, After = 0.8680
+  Δ = 0.0041, p-value = 0.2129 

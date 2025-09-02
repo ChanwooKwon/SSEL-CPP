@@ -1,0 +1,11 @@
+LGBM 성능 비교 (Feature Filtering 전후, 5-fold CV + Paired t-test)
+======================================================================
+Accuracy:
+  Before = 0.7906, After = 0.7938
+  Δ = 0.0032, p-value = 0.6467 
+MCC:
+  Before = 0.5816, After = 0.5886
+  Δ = 0.0070, p-value = 0.6118 
+ROC-AUC:
+  Before = 0.8713, After = 0.8720
+  Δ = 0.0007, p-value = 0.8267 

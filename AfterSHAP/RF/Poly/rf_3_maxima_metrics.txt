@@ -1,0 +1,9 @@
+RandomForest (Optuna Tuned) CV Metrics
+========================================
+Accuracy: 0.7799
+LogLoss: 0.4692
+MCC: 0.5598
+Precision: 0.7800
+Recall: 0.7868
+F1: 0.7834
+ROC_AUC: 0.8627

@@ -1,0 +1,17 @@
+LGBM ���� �� (Feature Filtering ����, 5-fold CV + Paired t-test)
+======================================================================
+Accuracy:
+  Before = 0.7957, After = 0.8102
+  �� = 0.0145, p-value = 0.0688 
+MCC:
+  Before = 0.5915, After = 0.6206
+  �� = 0.0291, p-value = 0.0677 
+ROC-AUC:
+  Before = 0.8729, After = 0.8830
+  �� = 0.0101, p-value = 0.0391 
+
+
+To assess the effect of feature filtering on model performance, we compared LGBM models before and after filtering using 5-fold cross-validation and paired t-tests.
+The results showed improvements in Accuracy (+1.45%, p = 0.0688) and MCC (+2.91%, p = 0.0677), both of which approached statistical significance.
+Notably, ROC-AUC improved by 1.01% and this increase was statistically significant (p = 0.0391).
+These findings suggest that the proposed feature filtering method can enhance model performance, particularly in terms of its ability to discriminate between classes.

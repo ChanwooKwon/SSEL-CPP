@@ -1,0 +1,9 @@
+LGB (Optuna Tuned) CV Metrics
+========================================
+Accuracy: 0.8083
+LogLoss: 0.4414
+MCC: 0.6166
+Precision: 0.8105
+Recall: 0.8105
+F1: 0.8105
+ROC_AUC: 0.8854

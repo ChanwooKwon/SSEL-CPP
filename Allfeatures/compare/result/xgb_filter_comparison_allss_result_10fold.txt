@@ -1,0 +1,11 @@
+XGBoost 성능 비교 (Feature Filtering 전후, 5-fold CV + Paired t-test)
+======================================================================
+Accuracy:
+  Before = 0.7830, After = 0.7969
+  Δ = 0.0139, p-value = 0.0143 
+MCC:
+  Before = 0.5667, After = 0.5945
+  Δ = 0.0278, p-value = 0.0148 
+ROC-AUC:
+  Before = 0.8639, After = 0.8819
+  Δ = 0.0180, p-value = 0.0020 

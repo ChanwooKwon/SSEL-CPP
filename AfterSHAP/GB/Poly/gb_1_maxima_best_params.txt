@@ -1,0 +1,8 @@
+GradientBoost Best Hyperparameters (Optuna)
+========================================
+n_estimators: 456
+learning_rate: 0.0282439308207897
+max_depth: 3
+subsample: 0.8632616102493802
+min_samples_split: 4
+min_samples_leaf: 8

@@ -1,0 +1,6 @@
+📊 LGB 
+🔹 Pearson: 0.9189
+🔹 Spearman: 0.7745
+🔹 Kendall Tau: 0.5867
+🔹 MAE of SHAP Values: 0.013084
+🔹 Relative MAE (% of Full SHAP Mean): 35.55%

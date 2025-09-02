@@ -1,0 +1,4 @@
+comparison between using all features and after the two stage feature selection was performed.
+comparing models were all trained using optuna, n-trials=150. 
+for example, for the code "CB_compare_5fold_all_ss.py", "params_before" is from Allfeatures/CB/CB_1_optuna_best_params_all.txt, which is trained using n_trials=150.
+"params_after" is from AfterSHAP/CB/Lowess/cb_1_lowess_best_params.txt, which is trained using n_trials=150, and which is also the final model for the catboost model used in ensemble training process.

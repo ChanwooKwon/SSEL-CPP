@@ -1,0 +1,9 @@
+ERT (Optuna Tuned) CV Metrics
+========================================
+Accuracy: 0.7831
+LogLoss: 0.4692
+MCC: 0.5662
+Precision: 0.7877
+Recall: 0.7818
+F1: 0.7847
+ROC_AUC: 0.8678

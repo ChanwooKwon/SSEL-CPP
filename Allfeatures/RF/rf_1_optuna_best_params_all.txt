@@ -1,0 +1,8 @@
+RF1 Best Hyperparameters (Optuna, All Features)
+========================================
+n_estimators: 598
+max_depth: 19
+min_samples_split: 7
+min_samples_leaf: 2
+max_features: log2
+bootstrap: False

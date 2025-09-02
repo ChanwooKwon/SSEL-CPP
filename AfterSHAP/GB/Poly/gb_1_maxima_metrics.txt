@@ -1,0 +1,9 @@
+GradientBoost (Optuna Tuned) CV Metrics
+========================================
+Accuracy: 0.8064
+LogLoss: 0.4409
+MCC: 0.6129
+Precision: 0.8105
+Recall: 0.8055
+F1: 0.8080
+ROC_AUC: 0.8767

@@ -1,0 +1,6 @@
+📊 ERT
+🔹 Pearson: 0.9687
+🔹 Spearman: 0.9619
+🔹 Kendall Tau: 0.8322
+🔹 MAE of SHAP Values: 0.000323
+🔹 Relative MAE (% of Full SHAP Mean): 18.63%

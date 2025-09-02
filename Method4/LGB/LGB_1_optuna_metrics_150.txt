@@ -1,0 +1,9 @@
+LightGBM (Optuna Tuned) CV Metrics
+========================================
+Accuracy: 0.7957
+LogLoss: 0.4717
+MCC: 0.5914
+Precision: 0.7987
+Recall: 0.7968
+F1: 0.7978
+ROC_AUC: 0.8727

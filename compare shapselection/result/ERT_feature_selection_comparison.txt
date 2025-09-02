@@ -1,0 +1,15 @@
+ERT 성능 비교 (Feature Filtering 전후, 10-fold CV + Paired t-test)
+======================================================================
+Accuracy:
+  Before = 0.7799, After = 0.7824
+  Δ = 0.0025, p-value = 0.5707 
+MCC:
+  Before = 0.5605, After = 0.5658
+  Δ = 0.0052, p-value = 0.5568 
+ROC-AUC:
+  Before = 0.8658, After = 0.8633
+  Δ = -0.0025, p-value = 0.1054 
+
+In the Extra Trees Classifier (ERT) model, feature filtering did not lead to significant performance changes.
+Based on 10-fold cross-validation and paired t-tests, none of the performance metrics—Accuracy (p = 0.5707), MCC (p = 0.5568), or ROC-AUC (p = 0.1054)—showed statistically significant differences after filtering.
+In fact, a slight decline in ROC-AUC was observed, suggesting that the filtering procedure may have removed potentially useful features for this model.

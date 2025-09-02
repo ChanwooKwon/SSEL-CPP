@@ -1,0 +1,11 @@
+RF 성능 비교 (Feature Filtering 전후, 5-fold CV + Paired t-test)
+======================================================================
+Accuracy:
+  Before = 0.7919, After = 0.7875
+  Δ = -0.0044, p-value = 0.5637 
+MCC:
+  Before = 0.5839, After = 0.5754
+  Δ = -0.0084, p-value = 0.5831 
+ROC-AUC:
+  Before = 0.8701, After = 0.8647
+  Δ = -0.0054, p-value = 0.2263 

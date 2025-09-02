@@ -1,0 +1,16 @@
+RF ���� �� (Feature Filtering ����, 10-fold CV + Paired t-test)
+======================================================================
+Accuracy:
+  Before = 0.7780, After = 0.7780
+  �� = 0.0000, p-value = 0.9993 
+MCC:
+  Before = 0.5565, After = 0.5567
+  �� = 0.0002, p-value = 0.9802 
+ROC-AUC:
+  Before = 0.8625, After = 0.8627
+  �� = 0.0002, p-value = 0.8581 
+
+
+The performance comparison of the Random Forest (RF) model before and after feature filtering revealed no significant differences.
+Accuracy remained identical (Before = 0.7780, After = 0.7780, Δ = 0.0000, p = 0.9993), MCC showed a negligible increase (Δ = +0.0002, p = 0.9802), and ROC-AUC exhibited virtually no change (Δ = +0.0002, p = 0.8581).
+These results suggest that feature filtering had no measurable effect on the predictive performance of the RF model

@@ -1,0 +1,10 @@
+XGB2 Best Hyperparameters (Optuna)
+========================================
+n_estimators: 282
+learning_rate: 0.07653498311377147
+max_depth: 7
+subsample: 0.8994939656961948
+colsample_bytree: 0.6040731590351679
+gamma: 0.4177960771077602
+reg_lambda: 2.130406200825104
+reg_alpha: 1.576723313682764

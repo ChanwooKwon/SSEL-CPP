@@ -1,0 +1,16 @@
+XGBoost ���� �� (Feature Filtering ����, 10-fold CV + Paired t-test)
+======================================================================
+Accuracy:
+  Before = 0.7761, After = 0.7969
+  �� = 0.0208, p-value = 0.0110 
+MCC:
+  Before = 0.5536, After = 0.5945
+  �� = 0.0409, p-value = 0.0120 
+ROC-AUC:
+  Before = 0.8679, After = 0.8819
+  �� = 0.0140, p-value = 0.0002 
+
+
+In the case of the XGBoost model, feature filtering resulted in statistically significant performance improvements across all evaluation metrics.
+Accuracy increased from 0.7761 to 0.7969 (Δ = +0.0208, p = 0.0110), while MCC rose from 0.5536 to 0.5945 (Δ = +0.0409, p = 0.0120).
+Notably, the ROC-AUC improved from 0.8679 to 0.8819 (Δ = +0.0140, p = 0.0002), confirming the effectiveness of the feature filtering process in enhancing model performance

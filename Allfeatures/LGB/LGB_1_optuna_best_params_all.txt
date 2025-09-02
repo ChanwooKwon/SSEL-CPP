@@ -1,0 +1,11 @@
+LightGBM Best Hyperparameters (Optuna, All Features)
+========================================
+n_estimators: 637
+learning_rate: 0.05166356972544993
+max_depth: 10
+num_leaves: 25
+min_child_samples: 7
+subsample: 0.626850496301491
+colsample_bytree: 0.995079942774497
+reg_alpha: 0.1022711962671985
+reg_lambda: 2.515467193222938

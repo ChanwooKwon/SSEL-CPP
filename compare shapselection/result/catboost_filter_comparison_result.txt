@@ -1,0 +1,15 @@
+CatBoost ���� �� (Feature Filtering ����, 10-fold CV + Paired t-test)
+======================================================================
+Accuracy:
+  Before = 0.7824, After = 0.7856
+  �� = 0.0031, p-value = 0.6636 
+MCC:
+  Before = 0.5656, After = 0.5720
+  �� = 0.0064, p-value = 0.6591 
+ROC-AUC:
+  Before = 0.8656, After = 0.8759
+  �� = 0.0102, p-value = 0.0169 
+
+In the CatBoost model, 10-fold cross-validation followed by paired t-tests revealed that feature filtering significantly improved ROC-AUC from 0.8656 to 0.8759 (Δ = +0.0102, p = 0.0169).
+Although minor increases in Accuracy and MCC were observed (Δ = +0.0031 and +0.0064 respectively), these changes were not statistically significant (p > 0.05).
+These results indicate that feature filtering enhanced the model’s discriminative power, particularly in its ability to separate positive and negative classes.

@@ -1,0 +1,20 @@
+RF ���� �� (Feature Filtering ����, 5-fold CV + Paired t-test)
+======================================================================
+Accuracy:
+  Before = 0.7907, After = 0.7875
+  �� = -0.0032, p-value = 0.6390 
+MCC:
+  Before = 0.5814, After = 0.5754
+  �� = -0.0059, p-value = 0.6630 
+ROC-AUC:
+  Before = 0.8645, After = 0.8647
+  �� = 0.0002, p-value = 0.9485 
+
+
+To evaluate the effect of feature filtering on model performance, we compared Random Forest models before and after applying the filtering process using 5-fold cross-validation and paired t-tests.
+The differences in average performance for Accuracy, MCC, and ROC-AUC were -0.32%, -0.59%, and +0.02%, respectively. However, none of these differences reached statistical significance (p > 0.05).
+These results suggest that the proposed feature filtering method can reduce feature dimensionality without compromising model performance.
+
+Feature Filtering 기법이 모델 성능에 미치는 영향을 분석하기 위해, 랜덤 포레스트(Random Forest) 모델을 대상으로 Feature Filtering 적용 전후의 성능을 5-fold 교차검증과 쌍체 t-검정을 통해 비교하였다.
+Accuracy, MCC, 그리고 ROC-AUC의 평균값은 각각 -0.32%, -0.59%, +0.02%의 차이를 보였으나, 모두 통계적으로 유의미하지 않은 수준이었다(p > 0.05).
+따라서, 본 연구에서 적용한 Feature Filtering은 성능 저하 없이 피처 수를 감소시키는 데 기여할 수 있음을 시사한다.
