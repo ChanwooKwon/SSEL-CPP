@@ -1,0 +1,47 @@
+Top 5 combinations by ROC_AUC:
+
+17. Models: XGB+LGB+CB
+   Accuracy   : 0.8045
+   ROC-AUC    : 0.8868
+   MCC        : 0.6092
+   Log Loss   : 0.4358
+   Precision  : 0.8122
+   Recall     : 0.7980
+   F1 Score   : 0.8050
+
+1. Models: XGB+LGB
+   Accuracy   : 0.8115
+   ROC-AUC    : 0.8867
+   MCC        : 0.6230
+   Log Loss   : 0.4328
+   Precision  : 0.8164
+   Recall     : 0.8092
+   F1 Score   : 0.8128
+
+36. Models: XGB+LGB+GB+CB
+   Accuracy   : 0.8052
+   ROC-AUC    : 0.8863
+   MCC        : 0.6105
+   Log Loss   : 0.4346
+   Precision  : 0.8132
+   Recall     : 0.7980
+   F1 Score   : 0.8055
+
+16. Models: XGB+LGB+GB
+   Accuracy   : 0.8115
+   ROC-AUC    : 0.8862
+   MCC        : 0.6230
+   Log Loss   : 0.4317
+   Precision  : 0.8180
+   Recall     : 0.8067
+   F1 Score   : 0.8123
+
+19. Models: XGB+LGB+ERT
+   Accuracy   : 0.8071
+   ROC-AUC    : 0.8858
+   MCC        : 0.6142
+   Log Loss   : 0.4259
+   Precision  : 0.8139
+   Recall     : 0.8017
+   F1 Score   : 0.8078
+

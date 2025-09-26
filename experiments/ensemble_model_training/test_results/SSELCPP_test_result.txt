@@ -1,0 +1,13 @@
+ Test Set Ensemble Evaluation
+============================================================
+
+ Combination: XGB+LGB
+    - Accuracy:     0.8197
+    - ROC-AUC:      0.8753
+    - MCC:          0.6335
+    - Precision:    0.7778
+    - Recall:       0.8077
+    - F1-Score:     0.7925
+    - Sensitivity:  0.8077
+    - Specificity:  0.8286
+

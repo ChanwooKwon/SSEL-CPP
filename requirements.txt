@@ -1,0 +1,35 @@
+# Core scientific computing (exact versions from CPPSMILES environment)
+numpy==1.23.5
+pandas==2.0.3
+scikit-learn==1.3.0
+
+# Machine learning models (exact versions from CPPSMILES environment)
+xgboost==2.1.1
+lightgbm==4.5.0
+catboost==1.2.7
+
+# Feature extraction and cheminformatics (exact versions from CPPSMILES environment)
+mordred==1.2.0
+rdkit-pypi==2024.3.5
+
+# Bioinformatics (exact versions from CPPSMILES environment)
+biopython==1.78
+
+# Utilities (exact versions from CPPSMILES environment)
+joblib==1.4.2
+shap==0.44.1
+
+# Visualization (exact versions from CPPSMILES environment)
+matplotlib==3.7.2
+seaborn==0.13.2
+
+# Hyperparameter optimization (exact versions from CPPSMILES environment)
+optuna==4.3.0
+
+# Statistical analysis (exact versions from CPPSMILES environment)
+scipy==1.10.1
+
+# Additional dependencies for proper functionality
+Pillow>=8.3.0
+PyYAML>=6.0.0
+tqdm>=4.64.0

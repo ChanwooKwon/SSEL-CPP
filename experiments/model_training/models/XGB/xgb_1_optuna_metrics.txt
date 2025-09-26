@@ -1,0 +1,9 @@
+XGBoost (Optuna Tuned) CV Metrics
+========================================
+Accuracy: 0.7945
+LogLoss: 0.4530
+MCC: 0.5888
+Precision: 0.7953
+Recall: 0.7993
+F1: 0.7973
+ROC_AUC: 0.8684
