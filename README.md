@@ -5,7 +5,7 @@
 [![GitHub release](https://img.shields.io/badge/release-v1.0.0-blue)](https://github.com/ChanwooKwon/SSELCPP/releases)
 
 A machine learning-based tool for predicting Cell Penetrating Peptide (CPP) activity using soft-voting ensemble learning with comprehensive feature selection and molecular descriptor analysis.
-![Uploading image.png…]()
+<img width="648" height="454" alt="image" src="https://github.com/user-attachments/assets/656595b9-5605-4fa1-ad43-a0899ad65af7" />
 
 ## 🎯 Overview
 
@@ -262,4 +262,5 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 - Mordred descriptor development team
 
 - Open-source machine learning community
+
 
